@@ -1,0 +1,114 @@
+SRA accession	Category	Sample Description
+SRR548277	aerial	Aerial part of 4-week-old plant
+SRR847503	aerial	Aerial part of 3-week-old soil-grown plant
+SRR847504	aerial	Aerial part of 3-week-old soil-grown plant
+SRR847505	aerial	Aerial part of 3-week-old soil-grown plant
+SRR847506	aerial	Aerial part of 3-week-old soil-grown plant
+SRR547531	aerial	Aerial part of 4-week-old plant
+ERR274310	aerial	Aerial part of long-day-grown 4-leaf-stage seedling with mock (NaCl) treatment
+SRR1207194	carpel	Carpels collected manually from stage 8-13 flowers
+SRR1207195	carpel	Carpels collected manually from stage 8-13 flowers
+SRR1019436	dark-grown seedling	5do etiolated seedling
+SRR1019437	dark-grown seedling	5do etiolated seedling
+SRR1049784	dark-grown seedling	7do dark-grown seedling
+SRR477075	dark-grown seedling	5do dark-grown seedling
+SRR477076	dark-grown seedling	5do dark-grown seedling
+SRR493237	dark-grown seedling	3do etiolated seedling
+SRR493238	dark-grown seedling	3do etiolated seedling
+SRR314815	stage 12 inflorescence	stage-12 floral buds from long-day grown plant
+SRR800753	stage 12 inflorescence	stage-12 floral bud
+SRR800754	stage 12 inflorescence	stage-12 floral bud
+SRR446027	leaf	Leaf of 6-week-old short-day-grown plant infiltrated with mock (virulent bacterium) and harvested 1h post-infiltration
+SRR446028	leaf	Leaf of 6-week-old short-day-grown plant infiltrated with mock (virulent bacterium) and harvested 1h post-infiltration
+SRR446033	leaf	Leaf of 6-week-old short-day-grown plant infiltrated with mock (virulent bacterium) and harvested 6h post-infiltration
+SRR446034	leaf	Leaf of 6-week-old short-day-grown plant infiltrated with mock (virulent bacterium) and harvested 6h post-infiltration
+SRR446039	leaf	Leaf of 6-week-old short-day-grown plant infiltrated with mock (virulent bacterium) and harvested 12h post-infiltration
+SRR446040	leaf	Leaf of 6-week-old short-day-grown plant infiltrated with mock (virulent bacterium) and harvested 12h post-infiltration
+SRR764885	leaf	Leaf of 4-week-old long-day-grown plant
+SRR934391	leaf	Leaf of 2-week-old long-day-grown plant
+SRR1105822	leaf	Leaf of 3-week-old long-day-grown plant
+SRR1105823	leaf	Leaf of 3-week-old long-day-grown plant
+SRR314813	leaf	Leaf of 11-day-old plant
+SRR446484	leaf	Non-dividing tissues (oldest 4-6 leaves) of 4-week-old short-day-grown plant
+SRR446485	leaf	Dividing tissues (meristem and younger leaves) of 4-week-old short-day-grown plant
+SRR446486	leaf	Non-dividing tissues (oldest 4-6 leaves) of 4-week-old short-day-grown plant
+SRR446487	leaf	Dividing tissues (meristem and younger leaves) of 4-week-old short-day-grown plant
+SRR493036	leaf	Leaf of 2-week-old plant
+SRR924656	leaf	Leaf of 3-week-old plant
+SRR942022	leaf	Leaf of 3-week-old long-day-grown plant
+SRR1159827	leaf	Leaf of 20-day-old plant
+SRR1159821	leaf	Leaf of 20-day-old plant
+SRR1159837	leaf	Leaf of 20-day-old plant
+SRR493097	leaf	Leaf of 5-week-old short-day-grown plant
+SRR493098	leaf	Leaf of 5-week-old short-day-grown plant
+SRR493101	leaf	Leaf of 5-week-old short-day-grown plant
+SRR1019221	light-grown seedling	15-d-old long-day plate-grown seedling
+SRR070570	light-grown seedling	4-day-old 24h-light-grown seedling
+SRR070571	light-grown seedling	4-day-old 24h-light-grown seedling
+SRR1001909	light-grown seedling	10-day-old long-day plate-grown seedling
+SRR1001910	light-grown seedling	10-day-old long-day plate-grown seedling
+SRR345561	light-grown seedling	7-day-old plate-grown long-day seedlings
+SRR345562	light-grown seedling	7-day-old plate-grown long-day seedlings
+SRR346552	light-grown seedling	7-day-old plate-grown long-day seedlings
+SRR346553	light-grown seedling	7-day-old plate-grown long-day seedlings
+SRR394082	light-grown seedling	10-day-old long-day plate-grown seedling
+SRR504179	light-grown seedling	2-week-old long-day seedling
+SRR504180	light-grown seedling	2-week-old long-day seedling
+SRR504181	light-grown seedling	2-week-old long-day seedling
+SRR515073	light-grown seedling	7-day-old plate-grown, long-day-grown seedling
+SRR515074	light-grown seedling	7-day-old plate-grown, long-day-grown seedling
+SRR527164	light-grown seedling	7-day-old, plate-grown, long-day-grown seedling
+SRR527165	light-grown seedling	7-day-old, plate-grown, long-day-grown seedling
+SRR584115	light-grown seedling	11-day-old light-grown plate-grown seedling
+SRR584121	light-grown seedling	11-day-old light-grown plate-grown seedling
+SRR584129	light-grown seedling	11-day-old light-grown plate-grown seedling
+SRR584134	light-grown seedling	11-day-old light-grown plate-grown seedling
+SRR653555	light-grown seedling	9 day-old 24h-light-grown seedling
+SRR653556	light-grown seedling	9 day-old 24h-light-grown seedling
+SRR653557	light-grown seedling	9 day-old 24h-light-grown seedling
+SRR653561	light-grown seedling	9 day-old long-day-grown seedling harvested 2h after light on the 9th day
+SRR653562	light-grown seedling	9 day-old long-day-grown seedling harvested 2h after light on the 9th day
+SRR653563	light-grown seedling	9 day-old long-day-grown seedling harvested 2h after light on the 9th day
+SRR653564	light-grown seedling	9 day-old long-day-grown seedling harvested 6h after light on the 9th day
+SRR653565	light-grown seedling	9 day-old long-day-grown seedling harvested 6h after light on the 9th day
+SRR653566	light-grown seedling	9 day-old long-day-grown seedling harvested 6h after light on the 9th day
+SRR653567	light-grown seedling	9 day-old long-day-grown seedling harvested 10h after light on the 9th day
+SRR653568	light-grown seedling	9 day-old long-day-grown seedling harvested 10h after light on the 9th day
+SRR653569	light-grown seedling	9 day-old long-day-grown seedling harvested 10h after light on the 9th day
+SRR653570	light-grown seedling	9 day-old long-day-grown seedling harvested 14h after light on the 9th day
+SRR653571	light-grown seedling	9 day-old long-day-grown seedling harvested 14h after light on the 9th day
+SRR653572	light-grown seedling	9 day-old long-day-grown seedling harvested 14h after light on the 9th day
+SRR653573	light-grown seedling	9 day-old long-day-grown seedling harvested 18h after light on the 9th day
+SRR653574	light-grown seedling	9 day-old long-day-grown seedling harvested 18h after light on the 9th day
+SRR653575	light-grown seedling	9 day-old long-day-grown seedling harvested 18h after light on the 9th day
+SRR653576	light-grown seedling	9 day-old long-day-grown seedling harvested 22h after light on the 9th day
+SRR653577	light-grown seedling	9 day-old long-day-grown seedling harvested 22h after light on the 9th day
+SRR653578	light-grown seedling	9 day-old long-day-grown seedling harvested 22h after light on the 9th day
+SRR797194	light-grown seedling	10-day-old plate-grown 24-light-grown seedling with mock (cytokinin) treatment
+SRR797230	light-grown seedling	10-day-old plate-grown 24-light-grown seedling with mock (cytokinin) treatment
+SRR833246	light-grown seedling	10-day-old plate-grown 24-light-grown seedling with mock (cytokinin) treatment
+SRR1260032	root apical meristem	Root tip from 3-day-old seedling
+SRR1260033	root apical meristem	Root tip from 3-day-old seedling
+SRR1261509	root apical meristem	Root tip (about 4 mm) from 4-day-old seedling
+SRR401413	receptacle	Receptacle from base of stage 15 flower of long-day-grown plant
+SRR401414	receptacle	Receptacle from base of stage 15 flower of long-day-grown plant
+SRR401415	receptacle	Receptacle from base of stage 15 flower of long-day-grown plant
+SRR401416	receptacle	Receptacle from base of stage 15 flower of long-day-grown plant
+SRR401417	receptacle	Receptacle from base of stage 15 flower of long-day-grown plant
+SRR401418	receptacle	Receptacle from base of stage 15 flower of long-day-grown plant
+SRR401419	receptacle	Receptacle from base of stage 15 flower of long-day-grown plant
+SRR401420	receptacle	Receptacle from base of stage 15 flower of long-day-grown plant
+SRR401421	receptacle	Receptacle from base of stage 15 flower of long-day-grown plant
+ERR274309	root	Root from 4-leaf-stage seedling with mock (NaCl) treatment
+SRR1046909	root	Root from 10-day-old seedling
+SRR1046910	root	Root from 10-day-old seedling
+SRR1524935	root	Root from 10-day-old plate-grown 24h-light-grown seedling transferred to iron sufficient agar plant for 3 days
+SRR1524938	root	Root from 10-day-old plate-grown 24h-light-grown seedling transferred to iron sufficient agar plant for 3 days
+SRR1524940	root	Root from 10-day-old plate-grown 24h-light-grown seedling transferred to iron sufficient agar plant for 3 days
+SRR314814	root	Root from 11-day-old seedling
+SRR949956	shoot apical meristem	Shoot apical meristem/young leaf from 14-day-old plant grown in simulated sun condition
+SRR949965	shoot apical meristem	Shoot apical meristem/young leaf from 14-day-old plant grown in simulated sun condition
+SRR949988	shoot apical meristem	Shoot apical meristem/young leaf from 14-day-old plant grown in simulated sun condition
+SRR949989	shoot apical meristem	Shoot apical meristem/young leaf from 14-day-old plant grown in simulated sun condition
+SRR847501	pollen	Mature pollen
+SRR847502	pollen	Mature pollen
